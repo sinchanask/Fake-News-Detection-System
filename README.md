@@ -28,7 +28,7 @@ It classifies news articles as Fake or Real based on their textual content.
 - Seaborn  
 
 ### 🛠️ Tools
-- Jupyter Notebook / Google Colab  
+-  Google Colab  
 - CSV Dataset  
 
 ---
